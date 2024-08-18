@@ -1,0 +1,205 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 960px;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    /* padding-top: 10px; */
+
+}
+.bg-img{
+    width: 100%;
+    max-width: 100%;
+    min-width: 25px;
+}
+
+.navbar {
+    vertical-align: top;
+}
+
+.navbar ul {
+
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white; 
+    padding: 20px;  
+}
+
+.logo img {
+    width: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.navbar li {
+    display: inline-block;
+
+
+}
+
+.logo,
+.navbar {
+    display: inline-block;
+}
+
+.get-franchise {
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.order-online {
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+/* 
+foooter section */
+
+footer {
+    background-color: rgb(20, 20, 20);
+    color: white;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-logo{
+    width: 300px;
+    text-align: left;
+}
+
+.footer-logo a {
+    text-decoration: none;
+    color: white;
+}
+
+/* .footer-logo-para {
+    width: 30%;
+} */
+
+.footer-logo,
+.site-links,
+.contact,
+.social-media {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 40px;
+}
+
+.footer-logo img {
+    width: 200px;
+    /* padding-left: 150px;
+    padding-right: 150px; */
+}
+
+.site-links{
+    text-align: left;
+}
+
+.contact{
+
+    text-align: left;
+}
+.site-links li {
+    list-style: none;
+}
+
+.site-links a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.icons {
+    height: 50px;
+    width: 50px;
+}
+
+/* page3 */
+.name-small{
+font-size: 36px;
+font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.name {
+    font-size: 52px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.page3 {
+    text-align: center;
+    /* background-color: black, pink; */
+    color: white;
+    margin: 0%;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, black,rgb(46, 45, 45)  , black);
+}
+
+
+.page3-img {
+    background-color: white;
+    height: 140px;
+    width: 250px;
+    padding: 10px;
+
+}
+
+.btn-3 {
+    height: 60px;
+    width: 160px;
+    border-color: white;
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+    margin: 10px;
+}
+
+.address {
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(212, 204, 204), rgb(16, 27, 0))
+}
+
+.add-img {
+    height: 150px;
+    /* width: 280px; */
+    margin: 10px;
+
+
+}
+
+.add-img,
+.text1 {
+    display: inline-block;
+}
+
+.add-img,
+.text2 {
+    display: inline-block;
+    padding: 10px;
+}
+
+.add-img,
+.text3 {
+    display: inline-block;
+}
+
+.city-name {
+    font-size: 32px;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    letter-spacing: 10px;
+}
+
+

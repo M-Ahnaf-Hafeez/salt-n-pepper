@@ -1,0 +1,96 @@
+ /* .........................page 5 css .................... */
+
+ .container {
+     display: inline-block;
+     margin: 20px;
+
+ }
+
+ .container,
+ .box { 
+     display: inline-block;
+ }
+ .page5{
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(48, 48, 41), black);
+        padding: 10px 40px;
+        color: white;
+}
+
+.page6{
+    background-image: linear-gradient(to top, rgb(0, 0, 0), rgb(48, 48, 41), black);
+}
+ .container,
+ .box6 {
+     display: inline-block;
+ }
+
+ .box6 {
+     margin: 10px;
+     box-sizing: border-box;
+     background-color: #fff;
+     border: 1px solid #ddd;
+     border-radius: 8px;
+     overflow: hidden;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     width: 400px;
+     text-align: center;
+
+ }
+
+ .box6 img {
+     width: 50px;
+     padding: 10px;
+     height: auto;
+ }
+
+ .box6,
+ .soon {
+     font-size: 12px;
+       
+ }
+
+
+ .box {
+
+     margin: 10px;
+     box-sizing: border-box;
+     background-color: #fff;
+     border: 1px solid #ddd;
+     border-radius: 8px;
+     overflow: hidden;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     width: 400px;
+     text-align: center;
+
+ }
+
+ .box img {
+     width: 100%;
+     height: auto;
+ }
+
+ .box-content {
+     padding: 15px;
+ }
+
+ .box-content h3 {
+     margin: 0;
+     font-size: 18px;
+     color: #333;
+ }
+
+ .box-content p {
+     margin: 5px 0;
+     color: #666;
+ }
+
+ .box-content p.phone {
+     font-weight: bold;
+ }
+
+
+
+
+ hr{
+    margin: 0%;
+ }
